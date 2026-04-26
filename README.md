@@ -71,6 +71,7 @@ Want to add something? Open a PR :)
 - [kubeshark](https://github.com/kubeshark/kubeshark) think TCPDump and Wireshark re-invented for Kubernetes
 - [KubeHound](https://github.com/DataDog/KubeHound) is a Kubernetes attack graph tool allowing automated calculation of attack paths between assets in a cluster
 - [Marvin](https://github.com/undistro/marvin) is a CLI tool that scans a k8s cluster by performing CEL expressions to report potential issues, misconfigurations and vulnerabilities.
+- [KubeStellar Console](https://github.com/kubestellar/console) multi-cluster Kubernetes dashboard with security compliance dashboards, SBOM visibility, and supply chain security across edge and cloud clusters
 
 
 ## Runtime level security
